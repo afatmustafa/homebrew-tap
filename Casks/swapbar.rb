@@ -1,6 +1,6 @@
 cask "swapbar" do
-  version "0.4.0"
-  sha256 "8d43733811660eb9ef50f9b2cc0a346fee4510e13e179d63e9a0981e6927e0d6"
+  version "0.4.1"
+  sha256 "9b756cf1829513a93366dbc86c54bacde77854185a5772602fe2bdc385122bb0"
 
   url "https://github.com/afatmustafa/swapbar/releases/download/v#{version}/Swapbar.dmg"
   name "Swapbar"
